@@ -6,7 +6,7 @@
 |____/ \___|\__,_|\__,_|____/ \___/ \___|_|\_\___|\__|
                                         By Yonle
 ```
-A DDOS repos that Sends a tons of request to Websocket and Echo the Message.
+A DDOS repos that Sends a tons of request to Websocket Server and Echo the Incomming Message.
 ```javascript
 /*
  * I am not responsible for events that occur with you when using this Repo, 
@@ -16,7 +16,7 @@ A DDOS repos that Sends a tons of request to Websocket and Echo the Message.
 ```
 
 ## Requirements
-- NodeJS v6
+- NodeJS v6+
 - 600MB RAM (1 GB Recommended)
 - 800 Mhz CPU (1 Ghz Recommended)
 
